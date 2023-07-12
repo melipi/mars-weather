@@ -1,0 +1,15 @@
+.background {
+    width: 100vw;
+    height: 100vh;
+    background: radial-gradient(
+        300% 50% at 150% 110%,
+        #6B2B00 21.90%, 
+        #AC8972 51.85%, 
+        #C9D0D1 64.73%, 
+        #D2E6EE 67.56%, 
+        #B1C5E2 70.22%, 
+        #8FA3D6 72.48%, 
+        #364A68 82.77%, 
+        #0B0C10 94.16%
+    );
+}
